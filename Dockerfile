@@ -10,4 +10,4 @@ ADD run.sh /run.sh
 
 VOLUME /var/pdfStorage
 
-ENTRYPOINT ["ash", "/run.sh"]
+ENTRYPOINT ["bash", "/run.sh"]
