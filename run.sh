@@ -1,3 +1,5 @@
 #!/bin/ash
-cd /project
-php yii generate
+cd /var/www
+php yii generation
+php yii reminder
+php yii cleanup
